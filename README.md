@@ -20,7 +20,7 @@
     
   "After he had struggled painfully with his book for six months, the recluse had still only finished a few paragraphs. At this point, his hut was struck by lightning, killing him, and forever putting his writing ambitions to rest. From the charred remains of his laptop, I could recover the following file:
 
-  " % The Book of Programming
+    " % The Book of Programming
 
     %% The Two Aspects
 
@@ -132,8 +132,8 @@
     listened for a while, and then reproached him, saying 'Every language
     has its own way. Follow its form, do not try to program as if you
     were using another language.' '".
-
-    ## Read more abou in https://eloquentjavascript.net/1st_edition/chapter6.html#p72845d53f6f05268
+    
+## Read more abou in https://eloquentjavascript.net/1st_edition/chapter6.html#p72845d53f6f05268
   
 
 
