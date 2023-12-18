@@ -133,7 +133,7 @@
     has its own way. Follow its form, do not try to program as if you
     were using another language.' '".
     
-## Read more abou in https://eloquentjavascript.net/1st_edition/chapter6.html#p72845d53f6f05268
+## Read more about in https://eloquentjavascript.net/1st_edition/chapter6.html#p72845d53f6f05268
   
 
 
